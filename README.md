@@ -12,8 +12,6 @@ A manipulator is composed of serial links which are affixed to each other revolu
 Calculating the position and orientation of the endeffector in terms of the joint variables is called as forward kinematics. 
 In order to have forward kinematics for a robot mechanism in a systematic manner, one should use a suitable kinematics model. 
 Denavit-Hartenberg method that uses four parameters is the most common method for describing the robot kinematics. 
-These parameters ai1, α −,1idi and θ the link length, link twist, link offset and joint angle, respectively. 
-A coordinate frame is attached to each joint to determine DH parameters. Zi axis of the coordinate frame is pointing along the rotary or sliding direction general manipulator.
 Denavit Hartenberg Parameters
 With DH Parameters, solving for the Forward Kinematics is easy.  only need to take four parameters for each joint 
 i: θifor the joint angle, 
