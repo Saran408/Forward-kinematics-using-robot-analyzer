@@ -1,4 +1,6 @@
-# Forward-kinematics-using-robo-analyzer
+### EXP NO : 02
+### DATE : 11/10/22
+# <p align = "center"> Forward Kinematics Using Robo Analyzer</p>
 
 ## AIM: 
 To analyze the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles.
@@ -40,7 +42,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 5. plot the graph between the link and the joints.
 6. update the DH parameters of the link configuration and end effector configuration.
 
-### SIMULATION 
+### SIMULATION :  
  
 #### 6 DOF
 
